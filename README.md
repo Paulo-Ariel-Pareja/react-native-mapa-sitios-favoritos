@@ -5,6 +5,7 @@
 
 - [Acerca del proyecto](#about)
 - [Comencemos](#getting_started)
+- [Ilustraciones](#images)
 
 ## Acerca del proyecto <a name = "about"></a>
 
@@ -43,3 +44,11 @@ yarn start
 
 Se desplegara un listado de opciones para ejecutarlo en Ios o Android.
 Version web no admitida.
+
+## Ilustraciones <a name = "images"></a>
+
+![inicio](1.png)
+![seleccion_lugar](2.png)
+![marcadores_on](3.png)
+![marcadores_off](4.png)
+![lista](5.png)
